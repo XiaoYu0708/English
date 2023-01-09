@@ -102,7 +102,7 @@ have a story about a recent accident, which is really unbelievable. </pre>
 > neglect - 忽視  
 > laziness - 懶惰  
 > ignorance - 無知  
-> conditions - 情況
+> conditions - 情況  
 > failure - 失敗  
 > identify - 確認  
 > remediate - 修復  
