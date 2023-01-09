@@ -77,7 +77,7 @@ have a story about a recent accident, which is really unbelievable. </pre>
 
 ### **相關影片**
 
-[**連結**](https://youtu.be/jlxXahD0ZDU)
+影片連結：[**連結**](https://youtu.be/jlxXahD0ZDU)
 
 
 人們不注意或做他們不應該做的事導致事故，  
