@@ -3,7 +3,7 @@
 
 ### 2023/01/11
 
-> [A/Accidents](Listen A Minute.com/A/Accidents/Accidents.md)
+> [A/Accidents](Listen%20A%20Minute.com/A/Accidents/Accidents.md)
 > 
 > 
 
