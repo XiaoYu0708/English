@@ -118,7 +118,7 @@ have a story about a recent accident, which is really unbelievable. </pre>
 > majority - 多數  
 > plenty - 很多  
 > aware - 意識到的  
-> guard against - 防止
+> guard against - 防止  
 > circuits - 電路  
 > unguarded - 無人看守  
 > uncharted - 未知的  
