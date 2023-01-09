@@ -34,7 +34,7 @@ He’s a real accident looking for somewhere to happen.
 他真的是個尋找發生事故的地方的事故。
 
 Almost every time we meet,                                                  
-幾乎每次我們見面，
+幾乎每次我們見面，  
 he has some story to tell about his latest accident.                        
 他都有一個故事要告訴我他最近的事故。
 
@@ -43,3 +43,10 @@ He’s quite unbelievable.
 
 I think I’d be very worried if I were his mother.                           
 我想如果我是他的母親，我會非常擔心。
+
+---
+<pre>
+Traffic accidents are always the worst and most painful. The author works in an office and it is not very dangerous, so most accidents happen at home. But the author is not like friends, who almost every time we meet, have a story about a recent accident, which is really unbelievable. </pre>
+<pre>
+交通事故總是最糟糕且痛苦的。作者在辦公室工作，不是很危險，所以大部分的事故都是在家裡發生的。但是，作者不像朋友們那樣，幾乎每次我們見面，他們都有一個最近的事故故事，真的很難以置信。
+</pre>
