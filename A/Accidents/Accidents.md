@@ -131,6 +131,7 @@ If you don't concentrate on the thing that you're doing
 
 事故就會發生，就這樣  
 Accidents will happen, just like that
+
 大多數時候我們都可以看到警告標誌  
 The warning signs are there for us to see most of the time
 
@@ -142,7 +143,8 @@ Fate can surprise you, with no reason or rhyme
 
 確保你吸取教訓，下次你會知道得更清楚  
 Make sure you learn your lesson you'll know better next time
-事故時有發生，就在你最意想不到的時候
+
+事故時有發生，就在你最意想不到的時候  
 Accidents happen now and again, just when you least expect
 
 就在你覺得生活還可以的時候，緣分來收了  
@@ -156,7 +158,8 @@ If you don't concentrate on the thing that you're doing
 
 事故就會發生，就這樣  
 Accidents will happen, just like that
-事故時有發生，有時只是偶然
+
+事故時有發生，有時只是偶然  
 Accidents happen now and again, sometimes just by chance
 
 你得振作起來，拍拍身上的灰塵  
