@@ -83,8 +83,82 @@ have a story about a recent accident, which is really unbelievable. </pre>
 人們不注意或做他們不應該做的事導致事故，**懶惰**及**無知**也會導致事故的發生，面對人為事故，可能有多種原因，但往往是因為未能仔細檢查，影片中舉例：步行在液體的表面是不安全的，
 但如果你不觀察腳下，就不會看到他。  
 
-但通常會有很多警告訊號，例如：又冷又濕、下雨、或下雪，我們就應該意識到行走時的危險，了解危險的性質並加以防範。事故調查顯示，99.5%是由人們的行為所導致的，而有些人不是故意的，只是因為一些愚蠢的行為，他們認為他們可以做到，不會受傷，或沒有考慮，行為的後果。  
+但通常大自然會有很多警告訊號，例如：又冷又濕、下雨、或下雪，我們就應該意識到行走時的危險，了解危險的性質並加以防範。事故調查顯示，99.5%是由人們的行為所導致的，而有些人不是故意的，只是因為一些愚蠢的行為，他們認為他們可以做到，不會受傷，或沒有考慮，行為的後果。  
 
 盡可能地發現錯誤，並透過教育過程、設備修改或其他必要的方式來改正，以降低發生事故的風險。
+
+---
+
+**單字**
+
+> exact - 精確的  
+> causes - 原因  
+> result - 結果  
+> degree - 程度  
+> carelessness - 疏忽  
+> sloppiness - 草率  
+> negligence - 疏忽  
+> inattention - 注意力不集中 (attention - 注意力)  
+> neglect - 忽視  
+> laziness - 懶惰  
+> ignorance - 無知  
+> conditions - 情況
+> failure - 失敗  
+> identify - 確認  
+> remediate - 修復  
+> properly - 相當地  
+> against - 反對  
+> hazard - 冒險  
+> multiple - 多  
+> investigations - 調查  
+> inspection - 檢查  
+> liquid - 液體  
+> surface - 表面   
+> stepping - 踩著  
+> majority - 多數  
+> plenty - 很多  
+> aware - 意識到的  
+> guard against - 防止
+> circuits - 電路  
+> unguarded - 無人看守  
+> uncharted - 未知的  
+> cylinders - 汽缸  
+> altered safeties - 改變安全措施  
+> fire extinguishers - 滅火器  
+> curled up - 蜷縮  
+> edges - 邊緣  
+> mats - 墊子  
+> carpets - 地毯  
+> spills - 溢出  
+> unsanitary - 不衛生的  
+> damaged - 損壞的  
+> inappropriately - 不恰當地  
+> chemicals - 化學品  
+> solvents - 溶劑  
+> gasoline - 汽油  
+> housekeeping - 家政  
+> fall victim - 受害  
+> perhaps - 也許  
+> hazards - 危害  
+> risks - 風險  
+> defective - 有缺陷的  
+> protective - 保護的  
+> equipment - 設備  
+> ignoring - 無視  
+> sheet - 床單  
+> deliberately - 故意地  
+> violating - 違反  
+> procedures - 程序  
+> injured - 受傷  
+> behaviors - 行為  
+> consequences - 結果  
+> distracted - 分心  
+> evidence - 證據  
+> process - 過程  
+> modifications - 修改  
+
+
+
+
 
 [TOP](#accidents--事故)
