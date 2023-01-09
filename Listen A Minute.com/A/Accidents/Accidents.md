@@ -79,6 +79,11 @@ have a story about a recent accident, which is really unbelievable. </pre>
 
 影片連結：[**連結**](https://youtu.be/jlxXahD0ZDU)
 
+Accidents often occur due to people not paying attention or doing things they should not be doing, as well as laziness and ignorance. When it comes to human error, there can be a variety of reasons, but often it is due to a lack of careful inspection. For example, in the video, it is not safe to walk on a surface covered in liquid, but if you don't look down, you won't see it.
+
+However, nature often provides many warning signs, such as being cold and wet, raining, or snowing, and we should be aware of the dangers of walking in these conditions and take precautions to prevent accidents. Accident investigations show that 99.5% are caused by human behavior, and some of these are not intentional, but rather due to foolish actions. People think they can do it, won't get hurt, or don't consider the consequences of their actions.
+
+To reduce the risk of accidents, it is important to try to identify errors and correct them through education processes, equipment modification, or other necessary means.
 
 人們不注意或做他們不應該做的事導致事故，**懶惰**及**無知**也會導致事故的發生，面對人為事故，可能有多種原因，但往往是因為未能仔細檢查，影片中舉例：步行在液體的表面是不安全的，
 但如果你不觀察腳下，就不會看到他。  
