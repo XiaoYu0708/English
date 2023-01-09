@@ -80,4 +80,5 @@ have a story about a recent accident, which is really unbelievable. </pre>
 [**連結**]()
 
 
+
 [TOP](#accidents--事故)
