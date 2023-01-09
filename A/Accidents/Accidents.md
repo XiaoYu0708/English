@@ -77,7 +77,7 @@ have a story about a recent accident, which is really unbelievable. </pre>
 
 ### **相關影片**
 
-影片連結：[**連結**](https://youtu.be/jlxXahD0ZDU)
+影片連結：[[](https://i.ytimg.com/vi/dBf6BTX1bmM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyNXjjZ-CmQyCHBeT5dwAysEOP-Q)](https://youtu.be/jlxXahD0ZDU)
 
 
 人們不注意或做他們不應該做的事導致事故，**懶惰**及**無知**也會導致事故的發生，面對人為事故，可能有多種原因，但往往是因為未能仔細檢查，影片中舉例：步行在液體的表面是不安全的，
