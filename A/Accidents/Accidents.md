@@ -46,7 +46,17 @@ I think I’d be very worried if I were his mother.
 
 ---
 <pre>
-Traffic accidents are always the worst and most painful. The author works in an office and it is not very dangerous, so most accidents happen at home. But the author is not like friends, who almost every time we meet, have a story about a recent accident, which is really unbelievable. </pre>
+Traffic accidents are always the worst and most painful. 
+The author works in an office and it is not very dangerous, 
+so most accidents happen at home. But the author is not like friends,
+who almost every time we meet, 
+have a story about a recent accident, which is really unbelievable. </pre>
 <pre>
-交通事故總是最糟糕且痛苦的。作者在辦公室工作，不是很危險，所以大部分的事故都是在家裡發生的。但是，作者不像朋友們那樣，幾乎每次我們見面，他們都有一個最近的事故故事，真的很難以置信。
+交通事故總是最糟糕且痛苦的。
+作者在辦公室工作，不是很危險，
+所以大部分的事故都是在家裡發生的。
+但是，作者不像朋友們那樣，
+幾乎每次我們見面，
+他們都有一個最近的事故故事，
+真的很難以置信。
 </pre>
