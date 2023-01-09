@@ -3,5 +3,5 @@
 
 ### 2023/01/11
 
-> [A/Accidents](Listen%20A%20Minute.com/A/Accidents/Accidents.md)
+> [A/Accidents](Listen%20A%20Minute.com/A/Accidents/Accidents.md)  
 > [So Far Away](Music/2023-01-11.md)
