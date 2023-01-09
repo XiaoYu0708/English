@@ -64,7 +64,7 @@ have a story about a recent accident, which is really unbelievable. </pre>
 他們都有一個最近的事故故事，
 真的很難以置信。
 </pre>
-
+[top](#accidents--事故)
 ---
 
 ### [**相關影片連結**](https://youtu.be/iLwVVEHb5HI)
@@ -185,3 +185,5 @@ Accidents, incidents
 
 事故，事件，事故就這樣發生了！  
 Accidents, incidents, accidents happen, just like that!
+
+[top](#accidents--事故)
