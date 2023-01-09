@@ -37,6 +37,7 @@ He’s a real accident looking for somewhere to happen.
 
 Almost every time we meet,                                                  
 幾乎每次我們見面，  
+
 he has some story to tell about his latest accident.                        
 他都有一個故事要告訴我他最近的事故。
 
@@ -179,5 +180,5 @@ And whatever you're doin' is not what you're thinking
 事故、事件  
 Accidents, incidents
 
-事故，事件，事故就這樣發生了！
+事故，事件，事故就這樣發生了！  
 Accidents, incidents, accidents happen, just like that!
