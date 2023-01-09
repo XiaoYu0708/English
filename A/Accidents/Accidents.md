@@ -48,7 +48,8 @@ I think I’d be very worried if I were his mother.
 <pre>
 Traffic accidents are always the worst and most painful. 
 The author works in an office and it is not very dangerous, 
-so most accidents happen at home. But the author is not like friends,
+so most accidents happen at home. 
+But the author is not like friends,
 who almost every time we meet, 
 have a story about a recent accident, which is really unbelievable. </pre>
 <pre>
