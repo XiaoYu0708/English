@@ -71,7 +71,7 @@ have a story about a recent accident, which is really unbelievable. </pre>
 真的很難以置信。
 </pre>
 
-[TOP](#accidents--事故)
+[TOP](#)
 
 ---
 
@@ -162,4 +162,4 @@ To reduce the risk of accidents, it is important to try to identify errors and c
 > process - 過程  
 > modifications - 修改  
 
-[TOP](#accidents--事故)
+[TOP](#)
