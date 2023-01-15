@@ -299,7 +299,7 @@ these aren't primarily about money salaries or discipline
 these are really only a consequence of a more fundamental problem  
 
 3:23
-現在並沒有人意識到這一點
+現在並沒有人意識到這一點  
 right now and with no one quite meaning for this to happen
 
 3:26  
