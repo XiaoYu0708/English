@@ -293,7 +293,6 @@ with failing to pinpoint the real source of its problems
 我們把原因歸咎於金錢、薪金或紀律  
 these aren't primarily about money salaries or discipline  
 
-
 3:20  
 但它們只是一個更加基礎的問題的後果  
 these are really only a consequence of a more fundamental problem  
